@@ -1,7 +1,7 @@
 # guide
 
-# Shotgun Support/Help Center:
-<https://support.shotgunsoftware.com>
+Shotgun Support/Help Center:
+https://support.shotgunsoftware.com
 * Shotgun User Guide
 * Shotgun Create User Guide
 * Integrations User guide
